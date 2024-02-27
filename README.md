@@ -14,6 +14,12 @@
   - [Website for College Newspaper](https://thegazelle.org) <i>(I was the deputy web developor)</i>
   - [Student Records Input and Display Website using Xampp](https://github.com/AhmadSavaiz03/Xampp_Student_Records_Website)
 
+<h2>[My Resume](https://github.com/AhmadSavaiz03/Resume)</h2>
+
+<h2>Courses Completed:</h2>
+- Data Structures, Algorithms, System Architecture, Networks, Database Management & Analysis
+- Discrete Mathematics, Multivariable Calculus, Probability & Statistics, Linear Algebra
+- Markets, Introduction to Accounting, Foundations of Financial Markets, Strategic Management
 
 <h2> 🤳 Connect with me:</h2>
 

@@ -17,9 +17,9 @@
 <h2>[My Resume](https://github.com/AhmadSavaiz03/Resume)</h2>
 
 <h2>Courses Completed:</h2>
-- Data Structures, Algorithms, System Architecture, Networks, Database Management & Analysis
-- Discrete Mathematics, Multivariable Calculus, Probability & Statistics, Linear Algebra
-- Markets, Introduction to Accounting, Foundations of Financial Markets, Strategic Management
+- Data Structures, Algorithms, System Architecture, Networks, Database Management & Analysis<br/>
+- Discrete Mathematics, Multivariable Calculus, Probability & Statistics, Linear Algebra<br/>
+- Markets, Introduction to Accounting, Foundations of Financial Markets, Strategic Management<br/>
 
 <h2> 🤳 Connect with me:</h2>
 

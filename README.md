@@ -8,8 +8,9 @@
   - [Implementing BadNets Attack Model on MNIST Dataset](https://github.com/AhmadSavaiz03/BadNets)
   - [Label Consistent FGSM Attack on CIFAR-10 Dataset using Resnet-18](https://github.com/AhmadSavaiz03/Label_Consistent_Backdoor)
   - [Backdoor Attack via Rotation](https://github.com/AhmadSavaiz03/Rotation_Backdoor)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Full Stack Web App (HTML, CSS, Javascript, TypeScript, React, NextJS, PHP, MySQL, and Prisma)</b>
+  - [Website for College Newspaper](https://thegazelle.org)<b>I was the deputy web developor</b>
+  - [Student Records Input and Display Website using Xampp](https://github.com/AhmadSavaiz03/Xampp_Student_Records_Website)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)

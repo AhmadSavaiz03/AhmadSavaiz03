@@ -4,8 +4,10 @@
 
 - <b>Python Web Scraping Project using BeautifulSoup and Selenium</b>
   - [Extracting Organized Menu Images from 1000+ Gulf Restaurants](https://github.com/AhmadSavaiz03/restaurant_webscraping)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Machine Learning</b>
+  - [Implementing BadNets Attack Model on MNIST Dataset](https://github.com/AhmadSavaiz03/BadNets)
+  - [Label Consistent FGSM Attack on CIFAR-10 Dataset using Resnet-18](https://github.com/AhmadSavaiz03/Label_Consistent_Backdoor)
+  - [Backdoor Attack via Rotation](https://github.com/AhmadSavaiz03/Rotation_Backdoor)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>

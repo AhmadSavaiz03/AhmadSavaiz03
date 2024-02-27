@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Python Web Scraping Project using BeautifulSoup and Selenium</b>
+  - [Extracting Organized Menu Images from 1000+ Gulf Restaurants](https://github.com/AhmadSavaiz03/restaurant_webscraping)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>

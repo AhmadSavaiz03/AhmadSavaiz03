@@ -1,4 +1,5 @@
 <h1>Hi, I'm Savaiz! <br/><a href="https://www.linkedin.com/in/savaiz/">Aspiring Software Engineer</a>
+<h2><a href="https://github.com/AhmadSavaiz03/Resume">My Resume</a></h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -14,7 +15,6 @@
   - [Website for College Newspaper](https://thegazelle.org) <i>(I was the deputy web developor)</i>
   - [Student Records Input and Display Website using Xampp](https://github.com/AhmadSavaiz03/Xampp_Student_Records_Website)
 
-<h2><a href="https://github.com/AhmadSavaiz03/Resume">My Resume</a></h2>
 
 <h2>Courses Completed:</h2>
 - Data Structures, Algorithms, System Architecture, Networks, Database Management & Analysis<br/>

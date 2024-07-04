@@ -1,5 +1,5 @@
 <h1>Hi, I'm Savaiz! <br/><a href="https://www.linkedin.com/in/savaiz/">Aspiring Software Engineer</a>
-<h2><a href="https://github.com/AhmadSavaiz03/Resume">My Resume</a></h2>
+<h2><a href="https://github.com/AhmadSavaiz03/Resume/blob/main/CV%20Ahmad%20Savaiz%20Nazir_NYC%20Linkedin.pdf">My Resume</a></h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

@@ -3,17 +3,14 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Internship Finder Application (Java Spring Boot, JavaScript ReactJS, Python)</b>
-  - 
-
-- <b>Python Web Scraping Project using BeautifulSoup and Selenium</b>
-  - [Extracting Organized Menu Images from 1000+ Gulf Restaurants](https://github.com/AhmadSavaiz03/restaurant_webscraping)
-
 - <b>Full Stack Web Apps (HTML, CSS, Javascript, TypeScript, React, NextJS, PHP, MySQL,)</b>
-  - [Internship Finder Application (Java Spring Boot, React, Python)](https://github.com/AhmadSavaiz03/internships-project)
+  - [Internship Finder Application](https://github.com/AhmadSavaiz03/internships-project) (Java Spring Boot, React, Python)
   - [Website for College Newspaper](https://thegazelle.org) <i>(I was the deputy web developer)</i>
   - [Student Records Input and Display Website using Xampp](https://github.com/AhmadSavaiz03/Xampp_Student_Records_Website)
   - [Payment Cards Status API using Flask and PostGreSQL](https://github.com/AhmadSavaiz03/Cards_Status_API)
+
+- <b>Python Web Scraping Project using BeautifulSoup and Selenium</b>
+  - [Extracting Organized Menu Images from 1000+ Gulf Restaurants](https://github.com/AhmadSavaiz03/restaurant_webscraping)
     
 - <b>Machine Learning on PyTorch (Python)</b>
   - [Implementing BadNets Attack Model on MNIST Dataset](https://github.com/AhmadSavaiz03/BadNets)

@@ -18,9 +18,9 @@
   - [Backdoor Attack via Rotation on GTSRB Dataset](https://github.com/AhmadSavaiz03/Rotation_Backdoor)
     
 <h2>Courses Completed:</h2>
-- Data Structures, Algorithms, System Architecture, Networks, Database Management & Analysis<br/>
+- Data Structures, Algorithms, Operating Systems, System Architecture, Networks, Database Management & Analysis, Algorithmic Problem Solving<br/>
 - Discrete Mathematics, Multivariable Calculus, Probability & Statistics, Linear Algebra<br/>
-- Markets, Introduction to Accounting, Foundations of Financial Markets, Strategic Management<br/>
+- Markets, Foundations of Fintech, Introduction to Accounting, Foundations of Financial Markets, Managerial Economics, Strategic Management, Operations Management<br/>
 
 <h2> 🤳 Connect with me:</h2>
 

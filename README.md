@@ -4,6 +4,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web Apps (HTML, CSS, Javascript, TypeScript, React, NextJS, MySQL, Java Spring Boot, Python, PostgreSQL)</b>
+  - [Local Crimes Alert Net](https://github.com/Muneeb-Alvi/AlertNet) (React, NextJS, Firebase, NoSQL)
   - [Internship Finder Application](https://github.com/AhmadSavaiz03/internships-project) (Java Spring Boot, React, Python, PostgreSQL) - <i>in progess</i>
   - [Website for College Newspaper](https://thegazelle.org) <i>(I was the deputy web developer)</i>
   - [Student Records Input and Display Website using Xampp](https://github.com/AhmadSavaiz03/Xampp_Student_Records_Website)
